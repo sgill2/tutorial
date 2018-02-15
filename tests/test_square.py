@@ -32,4 +32,5 @@ def test_triangle_area():
     A = area_triangle(base, height)
     assert pytest.approx(A) == 0.5
     print("insert test for triangle area here")
+    print('changed file')
 
